@@ -31,10 +31,10 @@
     "@angular/platform-browser": "~17.0.0",
     "@angular/platform-browser-dynamic": "~17.0.0",
     "@angular/router": "~17.0.0",
-    "rxjs": "~7.5.7",
+    "rxjs": "~7.8.0",
     "sweetalert2": "^11.5.2",
-    "tslib": "^2.4.0",
-    "zone.js": "~0.13.0"
+    "tslib": "^2.6.0",
+    "zone.js": "~0.14.0"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~17.0.0",
